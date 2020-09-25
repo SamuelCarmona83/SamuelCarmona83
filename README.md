@@ -1,4 +1,5 @@
-### Hi there, my name is Samuel and im a Systems Engineer 👋
+### Hi there, my name is Samuel 👋  
+## im a Systems Engineer, based on Caracas, Venezuela.
 
 - 🚤 I’m currently working on some e-commerces based on Vue.js 🏝️
 - 🌱 I’m currently learning music production and React 🌌
