@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Samuel and im a Systems Engineer 👋
+
+- 🚤 I’m currently working on some e-commerces based on Vue.js 🏝️
+- 🌱 I’m currently learning music production and React 🌌
 
 <!--
 **SamuelCarmona83/SamuelCarmona83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
