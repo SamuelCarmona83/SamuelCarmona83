@@ -2,7 +2,7 @@
 ### Im a Systems Engineer currently based on Caracas, Venezuela.
 
 - 🚤 I’m currently working on some e-commerces based on Vue.js 🏝️
-- 🌱 I’m currently learning music production and React 🌌
+- 🌱 I’m currently learning music production, graphic desing, videogame develpment and React 🌌
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
