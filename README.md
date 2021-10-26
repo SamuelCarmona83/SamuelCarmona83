@@ -1,8 +1,32 @@
 # Hello there, my name is Samuel 👋  
-### Im a Systems Engineer currently based on Caracas, Venezuela.
+
+## Im a Systems Engineer currently based on Caracas, Venezuela.
 
 - 🚤 I’m currently working on some e-commerces based on Vue.js 🏝️
-- 🌱 I’m currently learning music production, graphic desing, videogame develpment and React 🌌
+- 🌱 I’m currently learning UI/UX desing and React 🌌
+
+## Education
+
+**Universidad Metropolitana**, Caracas-Venezuela (2015 - 2020)
+
+## Experience:
+
+**Centro Médico Docente La Trinidad**, Caracas-Venezuela (June 2019 - Present)
+
+-	*Functional Analyst SAP FI-CO*
+
+**Bancaribe**, Caracas-Venezuela (March 2014 - July 2014)
+
+-	*Assistant of Credit Card Analyzer*
+
+## Competencies
+	
+- Problem solving
+- Decision making
+- Critical thinking
+- Teamwork
+- Information management
+- Autonomy to learn
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
