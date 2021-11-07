@@ -17,16 +17,7 @@
 
 **Bancaribe**, Caracas-Venezuela (March 2014 - July 2014)
 
--	*Assistant of Credit Card Analyzer*
-
-## Competencies
-	
-- Problem solving
-- Decision making
-- Critical thinking
-- Teamwork
-- Information management
-- Autonomy to learn
+-	*Intern of Credit Card and Mortgage Services Department*
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
