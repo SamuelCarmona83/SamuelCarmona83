@@ -5,11 +5,16 @@
 - 🚤 I’m currently working on some e-commerces based on Vue.js 🏝️
 - 🌱 I’m currently learning UI/UX desing and React 🌌
 
+Skillful front-end programer of JavaScript frameworks and libraries such as Angular, Vue and Node.js for 3+ years, experienced using SQL, NoSQL, MySQL and agile methodologies such as Scrum, excelling in working with multidisciplinary teams to deliver  high quality products.
+
+
 ## Education
 
 **Universidad Metropolitana**, Caracas-Venezuela (2015 - 2020)
 
 ## Experience:
+
+**Freelance**, Full-Stack Developer (January 2019 - Present)
 
 **Centro Médico Docente La Trinidad**, Caracas-Venezuela (June 2019 - Present)
 
