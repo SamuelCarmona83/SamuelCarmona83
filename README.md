@@ -14,7 +14,7 @@ Skillful front-end programer of JavaScript frameworks and libraries such as Angu
 
 ## Experience:
 
-**4Geeks**, Senior Mentor (May 2022 - Present)
+**4Geeks Academy**, Senior Mentor (May 2022 - Present)
 
 **Freelance**, Full-Stack Developer (January 2019 - Present)
 
