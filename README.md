@@ -14,11 +14,17 @@ Skillful front-end programer of JavaScript frameworks and libraries such as Angu
 
 ## Experience:
 
-**Epidata**, Full Stack Ssr. Developer (June 2022 - Present)
+**Epidata**, Remote (June 2022 - Present)
 
-**4Geeks Academy**, Senior Mentor (May 2022 - Present)
+-*Full Stack Developer Ssr.*
 
-**Freelance**, Full-Stack Developer (January 2019 - Present)
+**4Geeks Academy**, Caracas-Venezuela (May 2022 - Present)
+
+-	*Senior Mentor *
+
+**Freelance**, Remote (January 2019 - Present)
+
+-*Full Stack Developer*
 
 **Centro Médico Docente La Trinidad**, Caracas-Venezuela (June 2019 - June 2022)
 
