@@ -1,5 +1,3 @@
-# Hello there, my name is Samuel 👋  
-
 ## Im a Software Developer currently based on Caracas, Venezuela.
 
 - 🚤 I’m currently working on some Smart city applications based on Vue.js & Django 🏝️
@@ -12,7 +10,7 @@ I am a highly experienced Systems Engineer with 5+ years of experience in web de
 
 **Universidad Metropolitana**, Caracas-Venezuela (2015 - 2020)
 
-## Experience:
+## Recent experiences:
 
 **Epidata**, Remote (June 2022 - Present)
 
@@ -21,18 +19,6 @@ I am a highly experienced Systems Engineer with 5+ years of experience in web de
 **4Geeks Academy**, Caracas-Venezuela (May 2022 - Present)
 
 -	*Senior Mentor*
-
-**Freelance**, Remote (January 2019 - Present)
-
-- *Full Stack Developer*
-
-**Centro Médico Docente La Trinidad**, Caracas-Venezuela (June 2019 - June 2022)
-
--	*Functional Analyst SAP FI-CO*
-
-**Bancaribe**, Caracas-Venezuela (March 2014 - July 2014)
-
--	*Intern of Credit Card and Mortgage Services Department*
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
