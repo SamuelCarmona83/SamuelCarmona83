@@ -1,11 +1,11 @@
 # Hello there, my name is Samuel 👋  
 
-## Im a Systems Engineer currently based on Caracas, Venezuela.
+## Im a Software Developer currently based on Caracas, Venezuela.
 
-- 🚤 I’m currently working on some e-commerces based on Vue.js 🏝️
-- 🌱 I’m currently learning Flutter and Kotlin 🌌
+- 🚤 I’m currently working on some Smart city applications based on Vue.js & Django 🏝️
+- 🌱 I’m currently learning Kotlin & Spring Boot 🌌
 
-Skillful front-end programer of JavaScript frameworks and libraries such as Angular, Vue and Node.js for 3+ years, experienced using SQL, NoSQL, MySQL and agile methodologies such as Scrum, excelling in working with multidisciplinary teams to deliver  high quality products.
+I am a highly experienced Systems Engineer with 5+ years of experience in web development. I specialize in working with JavaScript frameworks and I am experienced in mentoring junior engineers, I excel in developing effective and efficient solutions for complex business problems, and have a solid background in principles and good practices., architectures, and systems, and I am proficient in component-oriented design with a good eye for detail. I am experienced in working with a variety of programming languages, including JavaScript, HTML/CSS, and Python. I have a good understanding of agile and scrum methodologies and am proficient in using tools such as Git and Docker. My experience has helped me gain excellent communication and problem-solving skills, which I use in my daily work. I am passionate about technology and engineering. I am confident that my knowledge and experience can help to develop high-quality systems and solutions that will make a positive impact on the world.
 
 
 ## Education
