@@ -3,7 +3,7 @@
 - 🚤 I’m currently working on some Smart city applications based on Vue.js & Django 🏝️
 - 🌱 I’m currently learning Kotlin & Spring Boot 🌌
 
-# I am a highly experienced Systems Engineer with 5+ years of experience in web development. 
+### I am a highly experienced Systems Engineer with 5+ years of experience in web development. 
 
 I specialize in working with JavaScript frameworks and I am experienced in mentoring junior engineers 👨🏽‍🏫, I excel in developing effective and efficient solutions for complex business problems, architectures, and I am proficient in component-oriented design 🎨 with a good eye for detail. I am experienced in working with a variety of programming languages, including JavaScript, HTML/CSS, and Python 🐍.
 
