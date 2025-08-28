@@ -1,25 +1,23 @@
-## Im a Software Developer currently based on Caracas, Venezuela.
+# Hi there, I'm Samuel 👋🏼  
 
-- 🚤 I’m currently working on some applications based on React.js + TypeScript & MongoDB 🏝️
-- 🌱 I’m currently learning SwiftUI & .NET 🌌
+I’m a Full Stack Engineer from Caracas, Venezuela.  
+I build scalable applications using **Python, .NET, React, TypeScript, and MongoDB**, and I enjoy keeping my code **clean, minimal, and maintainable**.  
 
-### I am a highly experienced Systems Engineer with 5+ years of experience in web development. 
+🚀 Current work:  
+- Full stack projects with **React, Tailwind, Flask, and MongoDB**  
+- Exploring **blockchain technologies**  
+- Designing APIs and cloud deployments with **AWS, GCP & Docker**  
 
-I specialize in working with JavaScript frameworks and I am experienced in mentoring junior engineers 👨🏽‍🏫, I excel in developing effective and efficient solutions for complex business problems, architectures, and I am proficient in component-oriented design 🎨 with a good eye for detail. I am experienced in working with a variety of programming languages, including JavaScript, HTML/CSS, and Python 🐍.
+👨🏽‍🏫 I also mentor developers at [4Geeks Academy](https://github.com/4geeksacademy), helping students grow into confident engineers.  
 
-I have a good understanding of agile and scrum methodologies and am proficient in using tools such as Git and Docker 🐳. My experience has helped me gain excellent communication and problem-solving skills, which I use in my daily work 👨🏽‍💻. I am passionate about technology and engineering. I am confident that my knowledge and experience can help to develop high-quality systems and solutions that will make a positive impact on the world 🌎.
+💡 Interests:  
+- High-precision RAG systems & AI integration  
+- Web performance & system scalability  
+- Blockchain wallets & explorers  
 
-## Education
+📌 Education: **Universidad Metropolitana, Caracas (2015–2020)**  
 
-**Universidad Metropolitana**, Caracas-Venezuela (2015 - 2020)
+🌱 I’m also currently learning Golang and Kotlin.
 
-## Recent experiences:
-
-**Epidata**, Remote (June 2022 - Ago 2023)
-
-- *Full Stack Developer Ssr.*
-
-**4Geeks Academy Latam**, Remote (May 2022 - Present)
-
--	*Senior Mentor*
-
+---
+*"I like code that’s simple, scalable, and meaningful."*
